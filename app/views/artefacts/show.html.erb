@@ -1,0 +1,23 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @artefact.name %>
+</p>
+
+<p>
+  <strong>Content:</strong>
+  <%= @artefact.content %>
+</p>
+
+<p>
+  <strong>Creator:</strong>
+  <%= @artefact.creator %>
+  </br>
+  <% @artefact.creator.each do |creator| %>
+    <%= link_to creator.name, creator %>
+  <% end %>
+</p>
+
+<%= link_to 'Edit', edit_artefact_path(@artefact) %> |
+<%= link_to 'Back', artefacts_path %>
