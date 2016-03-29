@@ -9,3 +9,19 @@
 2016-03-28 20:44:26.213-0300 INFO  Successfully shutdown Neo4j Server
 2016-03-28 20:44:26.257-0300 INFO  Successfully stopped database
 2016-03-28 20:44:26.257-0300 INFO  Successfully shutdown database
+2016-03-28 20:48:58.667-0300 INFO  Successfully started database
+2016-03-28 20:48:58.682-0300 INFO  Starting HTTP on port 7474 (1 threads available)
+2016-03-28 20:48:58.804-0300 INFO  Enabling HTTPS on port 7473
+2016-03-28 20:48:58.918-0300 INFO  Mounting static content at /webadmin
+2016-03-28 20:48:58.951-0300 INFO  Mounting static content at /browser
+2016-03-28 20:49:00.287-0300 INFO  Remote interface ready and available at http://localhost:7474/
+2016-03-28 20:53:04.923-0300 INFO  Neo4j Server shutdown initiated by request
+2016-03-28 20:53:04.940-0300 INFO  Successfully shutdown Neo4j Server
+2016-03-28 20:53:04.983-0300 INFO  Successfully stopped database
+2016-03-28 20:53:04.983-0300 INFO  Successfully shutdown database
+2016-03-28 20:53:34.015-0300 INFO  Successfully started database
+2016-03-28 20:53:34.030-0300 INFO  Starting HTTP on port 7474 (1 threads available)
+2016-03-28 20:53:34.153-0300 INFO  Enabling HTTPS on port 7473
+2016-03-28 20:53:34.274-0300 INFO  Mounting static content at /webadmin
+2016-03-28 20:53:34.309-0300 INFO  Mounting static content at /browser
+2016-03-28 20:53:35.649-0300 INFO  Remote interface ready and available at http://0.0.0.0:7474/
